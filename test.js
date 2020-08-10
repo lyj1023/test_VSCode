@@ -1,5 +1,5 @@
 var a = 1233;
-console.log(a);
+console.log(AAA);
 var ccc = function(){
     
 }
